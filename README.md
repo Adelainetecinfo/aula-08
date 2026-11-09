@@ -9,7 +9,7 @@ Esta entrega corresponde à **Aula 07: Camada de Serviço, Regras de Negócio e 
 - **Autores:**
   1. Paulo Zanardi
   2. Nawan Anderson
-  3. Eduardo Prado
+  3. Adelaine Rodrigues
 
 ---
 
